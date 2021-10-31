@@ -53,7 +53,7 @@
     "del": "^5.1.0",
     "hugo-bin": "^0.64.5",
     "ipfs-http-client": "^47.0.1",
-    "it-all": "^1.0.4",
+    "it-all": "^1.0.6",
     "it-concat": "^1.0.2",
     "less": "^3.10.3",
     "less-plugin-clean-css": "^1.5.1",
