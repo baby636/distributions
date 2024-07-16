@@ -56,7 +56,7 @@
     "it-all": "^1.0.4",
     "it-concat": "^1.0.2",
     "less": "^3.10.3",
-    "less-plugin-clean-css": "^1.5.1",
+    "less-plugin-clean-css": "^1.6.0",
     "make-promises-safe": "^5.1.0",
     "onchange": "^6.1.0",
     "shellcheck": "^0.4.2",
