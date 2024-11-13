@@ -49,9 +49,9 @@
     "babel-polyfill": "^6.26.0",
     "browser-sync": "^2.26.7",
     "chalk": "^4.1.0",
-    "concurrently": "^4.1.2",
+    "concurrently": "^5.0.1",
     "del": "^5.1.0",
-    "hugo-bin": "^0.64.5",
+    "hugo-bin": "^0.100.0",
     "ipfs-http-client": "^47.0.1",
     "it-all": "^1.0.4",
     "it-concat": "^1.0.2",
@@ -62,6 +62,6 @@
     "shellcheck": "^0.4.2",
     "standard": "^13.1.0",
     "webpack": "^4.41.0",
-    "webpack-cli": "^3.3.9"
+    "webpack-cli": "^4.0.0"
   }
 }
