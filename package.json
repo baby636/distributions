@@ -43,7 +43,7 @@
     "tether": "^1.4.7"
   },
   "devDependencies": {
-    "@babel/core": "^7.6.2",
+    "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.6.2",
     "babel-loader": "^8.0.0",
     "babel-polyfill": "^6.26.0",
